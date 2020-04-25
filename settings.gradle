@@ -1,0 +1,3 @@
+rootProject.name='VoiceRecorderExample'
+include ':app'
+include ':simplevoicerecorder'
