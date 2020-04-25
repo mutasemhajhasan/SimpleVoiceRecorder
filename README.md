@@ -1,7 +1,7 @@
 # SimpleVoiceRecorder
 Simple voice recorder view for android
 # Usage
-##Gradle
+## Gradle
 ```gradle
 allprojects {
 	repositories {
