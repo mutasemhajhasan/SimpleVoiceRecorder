@@ -1,6 +1,20 @@
 # SimpleVoiceRecorder
 Simple voice recorder view for android
 # Usage
+##Gradle
+```gradle
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+ 
+ dependencies {
+       implementation 'com.github.mutasemhajhasan:SimpleVoiceRecorder:1.0.0'
+}
+```
+
 ## AndroidManifest.xml
 ```xml
  <uses-permission android:name="android.permission.RECORD_AUDIO" />
